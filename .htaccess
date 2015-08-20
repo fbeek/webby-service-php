@@ -1,0 +1,4 @@
+Order Allow,Deny
+Allow From all
+Satisfy any 
+Options Indexes FollowSymLinks MultiViews
